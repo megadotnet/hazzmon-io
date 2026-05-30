@@ -1,6 +1,6 @@
 package byzas.libs.hazzmon.core.model;
 
-import com.hazelcast.core.Member;
+import com.hazelcast.cluster.Member;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
